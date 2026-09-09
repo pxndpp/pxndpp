@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pond, you can also call me Tony
 =====================================================================================================================================================
 
-* 🌍  I'm based in Bangkok, Thailand
+* 🌍  I'm based in Pathum Thani, Thailand
 * 🖥️  See my portfolio at [My-Portfolio](http://pxndpp.github.io/My-Portfolio/)
 * ✉️  You can contact me at [suwaphat.pp2003@gmail.com](mailto:suwaphat.pp2003@gmail.com)
 * 🧠  I'm currently learning a new framework and lot of new tech stuffs
